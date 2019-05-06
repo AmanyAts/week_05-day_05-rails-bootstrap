@@ -1,5 +1,7 @@
 # Rails Bootstrap
 
+![](https://camo.githubusercontent.com/e74745a18b7db9480c7313945864990dbb264eae/68747470733a2f2f6d656d6567656e657261746f722e6e65742f696d672f696e7374616e6365732f36363436333032362e6a7067)
+
 We will practice using documentation today and use the https://github.com/twbs/bootstrap-rubygem documentation as our guide for this lesson
 
 Once we have included bootstrap in our rails application, we will use the official Bootstrap documentation as your guide
